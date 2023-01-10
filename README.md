@@ -7,7 +7,7 @@
 
 ### SQL code 
 
--- SQL
+''' sql
 WITH forest_area_1990
      AS (SELECT country_name,
                 region,
@@ -38,4 +38,4 @@ WHERE  country_name != 'World'
        AND forest_area_2016 IS NOT NULL
 ORDER  BY 3 DESC
 LIMIT  5;
---
+'''

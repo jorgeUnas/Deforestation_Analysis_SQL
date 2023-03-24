@@ -1,6 +1,6 @@
 # Deforestation Analysis using SQL
 
-### Project Overview  
+## Project Overview  
 In this project it was used data from the World Bank related to the global deforestation from 1990 to 2016. This dataset includes the forest areas and the total land areas by country and region. The analysis, which was done using solely SQL, includes some recomendations about how to combat deforestation around the world. 
 
 ## 1. Global situation
@@ -12,7 +12,11 @@ The forest area lost over this time period is slightly more than the entire land
 In 1990, the percent of the total land area of the world designated as forest was 32.42%. The region with the highest relative forestation was Latin America & Caribbean, with 51.03%, and the region with the lowest relative forestation was Middle East & North Africa, with 1.78% forestation.
 
 In 2016, the percent of the total land area of the world designated as forest reduced to 31.38%. The region with the highest relative forestation was again Latin America & Caribbean, with 46.16%, and the region with the lowest relative forestation was again Middle East & North Africa, with 2.07% forestation.
+
 <img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Regional%20outlook.png" alt="Forest area by country"> 
+The only regions of the world that decreased in percent forest area from 1990 to 2016 were Latin America & Caribbean (dropped from 51.03% to 46.16%) and Sub-Saharan Africa (30.67% to 28.79%). All other regions actually increased in forest area over this time period. However, the drop in forest area in the two aforementioned regions was so large, the percent forest area of the world decreased over this time period from 32.42% to 31.38%. ![image](https://user-images.githubusercontent.com/106410793/227595434-bbd59b9f-32c2-46a0-9986-4c124d9ab6fd.png)
+
+
 
 
 

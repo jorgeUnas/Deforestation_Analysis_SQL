@@ -6,14 +6,35 @@ In this project it was used data from the World Bank related to the global defor
 ## 1. Global situation
 According to the World Bank, the total forest area of the world was 41282694.9 km2 in 1990. As of 2016, the most recent year for which data was available, that number had fallen to 39958245.9 km<sup> 2 </sup> , a loss of 1324449 km<sup> 2 </sup> or 3.21 %.
 
-The forest area lost over this time period is slightly more than the entire land area of Peru listed for the year 2016 (which is 1279999.9891 km<sup> 2 </sup>).
+The forest area lost over this time period is slightly more than the entire land area of Peru listed for the year 2016 (which is 1279999.9891 km <sup> 2 </sup>).
+
+The percent change in forest area of the world between 1990 and 2016 was calculated as follows:
+``` sql
+WITH forest_area_1990
+     AS (SELECT forest_area_sqkm AS fa_1990
+         FROM   forestation
+         WHERE  country_name = 'World'
+                AND year = 1990),
+     forest_area_2016
+     AS (SELECT forest_area_sqkm AS fa_2016
+         FROM   forestation
+         WHERE  country_name = 'World'
+                AND year = 2016),
+     perc_loss_forestarea
+     AS (SELECT ( fa_1990 - fa_2016 ) * 100 / fa_1990 AS perc_loss_forestarea
+         FROM   forest_area_1990,
+                forest_area_2016)
+SELECT Round(perc_loss_forestarea :: NUMERIC, 2)
+FROM   perc_loss_forestarea;
+``` 
+Where forest_area_sqkm means amount of forest area in km <sup> 2 </sup> . 
 
 ## 2. Reginal outlook
 The percent of the total land area of the world designated as forest decreased from 32.42% in 1990 to 31.38% in 2016. In both years, the region with the highest relative forestation was Latin America & Caribbean and the region with the lowest relative forestation was Middle East & North Africa (see table 2.1). 
 
 <img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Regional%20outlook.png" alt="Forest area by country"> 
 
-The only regions of the world that decreased in percent forest area from 1990 to 2016 were Latin America & Caribbean (dropped from 51.03% to 46.16%) and Sub-Saharan Africa (30.67% to 28.79%). All other regions actually increased in forest area over this time period. However, the drop in forest area in the two aforementioned regions was so large, the percent forest area of the world decreased over this time period from 32.42% to 31.38%.
+The only regions of the world that decreased in percent forest area from 1990 to 2016 were Latin America & Caribbean (dropped from 51.03% to 46.16%) and Sub-Saharan Africa (30.67% to 28.79%). All other regions actually increased in forest area over this time period.
 
 ## 2. Country-level Detail
 

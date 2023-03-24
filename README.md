@@ -4,7 +4,7 @@
 In this project it was used data from the World Bank related to the global deforestation from 1990 to 2016. This dataset includes the forest areas and the total land areas by country and region. The analysis, which was done using solely SQL, includes some recomendations about how to combat deforestation around the world. 
 
 ## Global situation
-According to the World Bank, the total forest area of the world was 41282694.9 km2 in 1990. As of 2016, the most recent year for which data was available, that number had fallen to 39958245.9 km2, a loss of 1324449 km2 or 3.21 %.
+According to the World Bank, the total forest area of the world was 41282694.9 km2 in 1990. As of 2016, the most recent year for which data was available, that number had fallen to 39958245.9 km<sup> 2 </sup> , a loss of 1324449 km2 or 3.21 %.
 
 The forest area lost over this time period is slightly more than the entire land area of Peru listed for the year 2016 (which is 1279999.9891 km2).
 

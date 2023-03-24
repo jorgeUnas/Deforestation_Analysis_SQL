@@ -59,12 +59,12 @@ There were 9 countries in the top quartile in 2016. These are countries with a v
 figure...
 
 ## 5. Recomendations
-●     According to the data from the World Bank the forestation areas of the planet have decreased from 1990 to 2016 in a quantity comparable with the entire land area of Peru.  
-●     Although in most of the regions analysed the percentage of forest areas during this period has increased, it is concerning the high decrease of this percentage in the Latin America & Caribbean and Sub-Saharan Africa regions. 
-●     In this report it has been highlighted China, the United States and Iceland as countries with representative growth in the forest areas. These countries could be used as models to come up with successful strategies for the most deforested countries.  
-●     Among the most affected countries, Brazil had the higher reduction in the amount of forest area. Some countries from the Sub-Saharan Africa region had the highest reduction in the percentage of forest areas, among them Nigeria deserves special attention because it is also one of the most deforested countries in terms of square kilometres.
-●     When we analysed all the countries based on the percentage of forest areas it was found that just 9 countries are in the top level of the countries with high areas designated as forest.
-●     Based on these results, it is concluded that ForestQuery should put most of its efforts in countries from the Latin America & Caribbean and Sub-Saharan Africa regions, giving priority to Brazil and Nigeria, the most deforested countries from 1990 to 2016.
+- According to the data from the World Bank the forestation areas of the planet have decreased from 1990 to 2016 in a quantity comparable with the entire land area of Peru.  
+- Although in most of the regions analysed the percentage of forest areas during this period has increased, it is concerning the high decrease of this percentage in the Latin America & Caribbean and Sub-Saharan Africa regions. 
+= In this report it has been highlighted China, the United States and Iceland as countries with representative growth in the forest areas. These countries could be used as models to come up with successful strategies for the most deforested countries.  
+- Among the most affected countries, Brazil had the higher reduction in the amount of forest area. Some countries from the Sub-Saharan Africa region had the highest reduction in the percentage of forest areas, among them Nigeria deserves special attention because it is also one of the most deforested countries in terms of square kilometres.
+- When we analysed all the countries based on the percentage of forest areas it was found that just 9 countries are in the top level of the countries with high areas designated as forest.
+- Based on these results, it is concluded that ForestQuery should put most of its efforts in countries from the Latin America & Caribbean and Sub-Saharan Africa regions, giving priority to Brazil and Nigeria, the most deforested countries from 1990 to 2016.
 
 ### SQL code 
 

@@ -56,7 +56,7 @@ Which countries are seeing deforestation to the largest degree? We can answer th
 The second way to consider which countries are of concern is to analyze the data by percent decrease.
 
 <p align="center" > 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Percent%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Percent Decrease in Forest Area by Country"  height="250"> 
+<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Percent%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Percent Decrease in Forest Area by Country"  height="280"> 
 </p>
 
 When we consider countries that decreased in forest area percentage the most between 1990 and 2016, we find that four of the top 5 countries on the list are in the region of Sub-Saharan Africa. The countries are Togo, Nigeria, Uganda and Mauritania. The fifth country on the list is Honduras which is in the Latin America & Caribbean region. 

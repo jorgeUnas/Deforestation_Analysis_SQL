@@ -30,7 +30,7 @@ Where forest_area_sqkm means amount of forest area in km <sup> 2 </sup> .
 ## 2. Reginal outlook
 The percent of the total land area of the world designated as forest decreased from 32.42% in 1990 to 31.38% in 2016. In both years, the region with the highest relative forestation was Latin America & Caribbean and the region with the lowest relative forestation was Middle East & North Africa (see table 2.1). 
 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Regional%20outlook.png" alt="Regional Outlook" height="200" align="center"> 
+<img align="center" src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Regional%20outlook.png" alt="Regional Outlook" height="200" > 
 
 
 The only regions of the world that decreased in percent forest area from 1990 to 2016 were Latin America & Caribbean (dropped from 51.03% to 46.16%) and Sub-Saharan Africa (30.67% to 28.79%). All other regions actually increased in forest area over this time period.

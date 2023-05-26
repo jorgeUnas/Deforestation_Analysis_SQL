@@ -53,8 +53,9 @@ Which countries are seeing deforestation to the largest degree? We can answer th
 
 The second way to consider which countries are of concern is to analyze the data by percent decrease.
 
-
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Percent%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Percent Decrease in Forest Area by Country"> 
+<p align="center" > 
+<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Percent%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Percent Decrease in Forest Area by Country"  height="300"> 
+</p>
 
 When we consider countries that decreased in forest area percentage the most between 1990 and 2016, we find that four of the top 5 countries on the list are in the region of Sub-Saharan Africa. The countries are Togo, Nigeria, Uganda and Mauritania. The fifth country on the list is Honduras which is in the Latin America & Caribbean region. 
 
@@ -64,11 +65,15 @@ From the above analysis, we see that Nigeria is the only country that ranks in t
 ## 4. Quartiles
 The largest number of countries in 2016 were found in the 0 – 25% quartile.
 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/quartiles.png" alt="Quartiles"> 
+<p align="center" > 
+<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/quartiles.png" alt="Quartiles"  height="300"> 
+</p>
 
 There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.
 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Top%20Quartile%20Countries.png" alt="Top Quartile Countries, 2016">  
+  <p align="center" > 
+<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Top%20Quartile%20Countries.png" alt="Top Quartile Countries, 2016"  height="400">  
+</p>
 
 ## 5. Recomendations
 - According to the data from the World Bank the forestation areas of the planet have decreased from 1990 to 2016 in a quantity comparable with the entire land area of Peru.  

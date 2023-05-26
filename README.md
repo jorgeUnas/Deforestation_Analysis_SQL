@@ -47,7 +47,9 @@ China and United States are of course very large countries in total land area, s
 b. LARGEST CONCERNS
 Which countries are seeing deforestation to the largest degree? We can answer this question in two ways. First, we can look at the absolute square kilometer decrease in forest area from 1990 to 2016. The following 3 countries had the largest decrease in forest area over the time period under consideration: 
 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Amount%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Forest area by country"> 
+<p align="center" > 
+     <img              src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/Amount%20Decrease%20in%20Forest%20Area%20by%20Country.png" alt="Forest area by country" height="300"> 
+</p>
 
 The second way to consider which countries are of concern is to analyze the data by percent decrease.
 

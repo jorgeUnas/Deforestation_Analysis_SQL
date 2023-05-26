@@ -68,7 +68,7 @@ From the above analysis, we see that Nigeria is the only country that ranks in t
 The largest number of countries in 2016 were found in the 0 – 25% quartile.
 
 <p align="center" > 
-<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/quartiles.png" alt="Quartiles"  height="200"> 
+<img src="https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/quartiles.png" alt="Quartiles"  height="250"> 
 </p>
 
 There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.

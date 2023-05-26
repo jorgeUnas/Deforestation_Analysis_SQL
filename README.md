@@ -1,4 +1,6 @@
-# Deforestation Analysis using SQL
+<p align="center" > 
+     # Deforestation Analysis using SQL
+</p>
 
 ## Project Overview  
 In this project it was used data from the World Bank related to the global deforestation from 1990 to 2016. This dataset includes the forest areas and the total land areas by country and region. The analysis, which was done using solely SQL, includes some recomendations about how to combat deforestation around the world. 
